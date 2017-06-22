@@ -14,7 +14,7 @@ MonoBehaviour:
   DisplayName: Centurion
   Description: The ultimate test of ultimate destiny!
   GeneratorSetting:
-    TimeLimit: 4800
+    TimeLimit: 6000
     NumStrikes: 10
     TimeBeforeNeedyActivation: 90
     FrontFaceOnly: 0
