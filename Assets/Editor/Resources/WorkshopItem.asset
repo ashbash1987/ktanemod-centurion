@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cf2299c8864afe4ab42466f546ae20d, type: 3}
   m_Name: WorkshopItem
   m_EditorClassIdentifier: 
-  WorkshopPublishedFileID: 0
+  WorkshopPublishedFileID: 952828429
   Title: The Centurion
   Description: "[b]Do you dare take on The Centurion???[/b]\r\n\r\nThis bomb case
     can hold a total of [b]101[/b] modules on a single bomb! It is definitely not

@@ -20,7 +20,7 @@ public class CenturionMission : MonoBehaviour
         }
     }
 
-    private const string MISSION_ID = "mod_Centurion_CenturionMission";
+    private static readonly string[] MISSION_IDS = new string[] { "mod_Centurion_CenturionMission", "mod_Centurion_CenturionMissionNoNeedy" };
 
     private static Type _gameplayStateType = null;
     private static FieldInfo _missionField = null;
@@ -54,7 +54,13 @@ public class CenturionMission : MonoBehaviour
             string missionID = (string)_idProperty.GetValue(mission, null);
             if (missionID != null)
             {
-                return missionID.Equals(MISSION_ID, StringComparison.InvariantCulture);
+                foreach (string validMissionID in MISSION_IDS)
+                {
+                    if (missionID.Equals(validMissionID, StringComparison.InvariantCulture))
+                    {
+                        return true;
+                    }
+                }
             }
 
             return false;
