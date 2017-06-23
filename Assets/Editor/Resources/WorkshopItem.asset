@@ -13,18 +13,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WorkshopPublishedFileID: 0
   Title: The Centurion
-  Description: "Do you dare take on The Centurion???\r\n\r\nThis bomb case can hold
-    a total of 101 modules on a single bomb! It is definitely not for the faint hearted.\r\n\r\nThis
-    mod also contains one mission, which features 100 regular modules, 100 minutes,
-    10 strikes. Oh yes, and 1 needy! The mission has been carefully designed to require
-    one of each of all of the current modded regular modules, and then fills in the
-    remaining regular modules with a selection of vanilla modules (as there are not
-    quite 100 modded modules currently available). The one needy can be either vanilla
-    or modded. This does mean that in order to attempt this mission, you would need
-    to subscribe to ALL modded modules currently available on the Steam workshop!
-    It will not allow you to start unless you subscribe to every single one of them.\r\n\r\nThat
-    said, the mission is purely optional, and you do not need to subscribe to the
-    modules in order to use the bomb casing on its own."
+  Description: "[b]Do you dare take on The Centurion???[/b]\r\n\r\nThis bomb case
+    can hold a total of [b]101[/b] modules on a single bomb! It is definitely not
+    for the faint hearted.\r\n\r\nThis mod also contains two missions. The first (and
+    true) mission consists of the following:\n- 100 regular modules\r\n- 1 needy module\r\n-
+    100 minutes\r\n- 10 strikes\r\n\nThe second mission is just like above, but replace
+    the needy with another regular module. Not a true test of mettle, but you would
+    still be regarded highly on conquering this mission.\n\r\nThe mission has been
+    carefully designed to require one of each of all of the current modded regular
+    modules, and then fills in the remaining regular modules with a selection of vanilla
+    modules (as there are not quite 100 modded modules currently available). The one
+    needy can be either vanilla or modded.\r\n\r\nThis does mean that in order to
+    attempt this mission, you would need to subscribe to [b]ALL[/b] modded modules
+    currently available on the Steam workshop (currently up-to and including 'Zoo').
+    It will not allow you to start unless you subscribe to every single one of them.\r\n\r\nOf
+    course, the mission is purely optional, and you do not need to subscribe to the
+    modules in order to use the bomb casing on its own.\n\nIf you ever complete a
+    challenge on this bomb, please do share your successes in the discussion forums
+    and comments on this workshop page :D"
   PreviewImage: {fileID: 2800000, guid: fc38eff07fb2f51469ac309cca164e26, type: 3}
   Tags:
   - Bomb Casing

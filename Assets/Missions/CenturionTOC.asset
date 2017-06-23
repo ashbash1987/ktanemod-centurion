@@ -16,3 +16,6 @@ MonoBehaviour:
   - Title: The One True Mission
     MissionIDs:
     - CenturionMission
+  - Title: The Not So True Mission
+    MissionIDs:
+    - CenturionMissionNoNeedy
