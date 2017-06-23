@@ -9,10 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
-  m_Name: CenturionMission
+  m_Name: CenturionMissionNoNeedy
   m_EditorClassIdentifier: 
-  DisplayName: Centurion
-  Description: The ultimate test of ultimate destiny!
+  DisplayName: No-Needy Centurion
+  Description: For those that cannot handle needies, here's the not-so ultimate test
+    of ultimate destiny!
   GeneratorSetting:
     TimeLimit: 6000
     NumStrikes: 10
@@ -583,14 +584,9 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - BinaryLeds
-    - Count: 6
+    - Count: 7
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 1
-      ModTypes: []
-    - Count: 1
-      AllowedSources: 3
-      ComponentTypes: 
-      SpecialComponentType: 2
       ModTypes: []
   PacingEventsEnabled: 1
