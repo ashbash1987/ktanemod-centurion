@@ -584,7 +584,31 @@ MonoBehaviour:
       SpecialComponentType: 0
       ModTypes:
       - BinaryLeds
-    - Count: 7
+    - Count: 1
+      AllowedSources: 3
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - PointOfOrderModule
+    - Count: 1
+      AllowedSources: 3
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:      
+      - iceCreamModule
+    - Count: 1
+      AllowedSources: 3
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - screw
+    - Count: 1
+      AllowedSources: 3
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - YahtzeeModule
+    - Count: 3
       AllowedSources: 1
       ComponentTypes: 
       SpecialComponentType: 1
